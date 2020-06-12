@@ -4,7 +4,7 @@ public class Test
 
 	public static void main(String [] args)
 	{
-		// useless narf 
+		// only useless narf 
 		System.out.println("narf");
 	}
 
