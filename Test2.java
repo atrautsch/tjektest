@@ -1,4 +1,4 @@
-class Test2 {  // something here
+class Test2 {  // something here?
 
-	private static String narf = "narf"; // or here?
+	private static String narf = "narf"; // or here
 }
