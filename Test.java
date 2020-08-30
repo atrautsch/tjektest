@@ -1,5 +1,5 @@
 
-public class Test  // hallo?
+public class Test  // hallo??
 { 
 
 	/**
@@ -7,12 +7,12 @@ public class Test  // hallo?
 	 *
 	 * Just the main
 	 *
-	 * nothing to complain here
+	 * nothing to complain here?
 	 */
 	public static void main(String [] args)
 	{
 		// only useless narf 12345678 
-		System.out.println("narf");  // todo: remove?
+		System.out.println("narf");  // todo: remove???
 	}
 
 }
