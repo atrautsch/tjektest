@@ -3,7 +3,9 @@ public class Test
 { 
 
 	/**
-	 * NARF4
+	 * NARF04
+	 *
+	 * Just the main
 	 */
 	public static void main(String [] args)
 	{
