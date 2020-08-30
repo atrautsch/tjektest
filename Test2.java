@@ -1,4 +1,4 @@
-class Test2 {
+class Test2 {  // something here?
 
 	private static String narf = "narf";
 }
