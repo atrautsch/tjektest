@@ -6,7 +6,6 @@ public class Test
 	{
 		// only useless narf 12345678 
 		System.out.println("narf");
-		//AAAA
 	}
 
 }
