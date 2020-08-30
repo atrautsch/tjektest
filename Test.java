@@ -3,7 +3,7 @@ public class Test
 { 
 
 	/**
-	 * NARF
+	 * NARF2
 	 */
 	public static void main(String [] args)
 	{
