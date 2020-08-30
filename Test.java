@@ -2,7 +2,6 @@
 public class Test
 { 
 
-	// oh watAAAAf
 	public static void main(String [] args)
 	{
 		// only useless narf 12345678 
